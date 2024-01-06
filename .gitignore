@@ -1,3 +1,6 @@
 /data
 /models
 /docs
+/llm_learn
+/scripts
+.env
